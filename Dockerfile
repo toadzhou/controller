@@ -1,1 +1,1 @@
-FROM ingress-nginx/controller
+From k8s.gcr.io/coredns
